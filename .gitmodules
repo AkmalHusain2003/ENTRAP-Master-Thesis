@@ -1,0 +1,9 @@
+[submodule "ENTRAP_Code/python"]
+	path = ENTRAP_Code/python
+	url = https://github.com/AkmalHusain2003/ENTRAP_Python.git
+[submodule "ENTRAP_Code/cython"]
+	path = ENTRAP_Code/cython
+	url = https://github.com/AkmalHusain2003/ENTRAP_Cython.git
+[submodule "ENTRAP_Code/c_support"]
+	path = ENTRAP_Code/c_support
+	url = https://github.com/AkmalHusain2003/ENTRAP_C_Support.git
